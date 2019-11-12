@@ -1,2 +1,7 @@
 source 'https://rubygems.org'
-gem 'nokogiri'
+
+gemspec
+
+gem 'rails', '~> 5.2'
+
+end
