@@ -1,5 +1,6 @@
-source 'https://rubygems.org' do
-  gem 'nokogiri'
-  gem 'rack', '~> 2.0.1'
-  gem 'rspec'
-end
+GEM
+  remote: https://rubygems.org/
+  specs:
+    actionmailer (3.2.13)
+PLATFORMS
+  ruby
