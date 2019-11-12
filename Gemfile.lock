@@ -31,6 +31,3 @@ DEPENDENCIES
   jsonpath (~> 0.5.8)
   rspec
   text-table
-
-BUNDLED WITH
-   1.13.5
