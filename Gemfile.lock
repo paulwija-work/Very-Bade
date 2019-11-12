@@ -120,18 +120,3 @@ GEM
       kgio (~> 2.6)
       rack
       raindrops (~> 0.7)
-
-PLATFORMS
-  ruby
-  x86-mingw32
-
-DEPENDENCIES
-  capistrano
-  coffee-rails (~> 3.2.1)
-  jquery-rails
-  pg
-  rails (= 3.2.13)
-  sass-rails (~> 3.2.3)
-  sqlite3
-  uglifier (>= 1.0.3)
-  unicorn
