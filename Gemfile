@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
 
-gem "rspec-core", "3.7.1"
+gem "enju_library", "0.3.4"
