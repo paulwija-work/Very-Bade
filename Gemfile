@@ -1,7 +1,5 @@
-source 'https://rubygems.org'
+source 'https://rubygems.org' do
 
-gemspec
-
-gem 'rails', '~> 5.2'
+gem 'enju_library', '0.3.4'
 
 end
