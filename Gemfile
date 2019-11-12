@@ -1,5 +1,8 @@
-source 'https://rubygems.org' do
+source 'https://rubygems.org'
 
-gem 'enju_library', '0.3.4'
+gem 'jekyll', '3.1.6'
 
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
 end
