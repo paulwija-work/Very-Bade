@@ -113,7 +113,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rails
+  rails (= 5.2.3)
 
 BUNDLED WITH
    2.0.2
