@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 
-gem "rspec", '2.14.1'
+gem "devise", '3.5.3'
