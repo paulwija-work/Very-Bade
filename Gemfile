@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 
-gem "devise", '3.5.3'
+gem "rails", '5.2.3'
